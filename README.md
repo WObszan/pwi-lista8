@@ -1,3 +1,1 @@
-# pwi-lista8
-zadanie na pwi lista 8
-test
+ZADANIE NA PWI LISTA 8 TEST
